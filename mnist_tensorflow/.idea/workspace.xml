@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a49fd89-6633-4314-8aaf-6ea40911d74f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist_eval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/model/checkpoint" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mnist_tensorflow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_data/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_data/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_data/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_data/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-25001.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-25001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-25001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-26001.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-26001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-26001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-27001.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-27001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-27001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-28001.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-28001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-28001.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-29001.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-29001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.ckpt-29001.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist_train.py" afterDir="false" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +62,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="3353" />
+=======
+          <entry key="py" value="3349" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="3353" />
+=======
+          <entry key="Python" value="3349" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -57,11 +96,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mnist_train.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
               <caret line="45" selection-start-line="45" selection-end-line="45" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mnist_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1537153747204" expanded="true" signature="363:368" ph="..." />
@@ -71,6 +118,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mnist_eval.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,6 +128,17 @@
                 <element signature="e#0#11#0" expanded="true" />
                 <marker date="1537169094067" expanded="true" signature="220:225" ph="..." />
                 <marker date="1537169094067" expanded="true" signature="1895:1900" ph="..." />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mnist_eval.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1537168170426" expanded="true" signature="220:225" ph="..." />
+                <marker date="1537168170426" expanded="true" signature="1895:1900" ph="..." />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
               </folding>
             </state>
           </provider>
@@ -141,7 +200,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.mnist_train">
+=======
+  <component name="RunManager" selected="Python.mnist_eval">
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
     <configuration name="mnist_eval" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mnist_tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,8 +253,13 @@
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.mnist_train" />
         <item itemvalue="Python.mnist_eval" />
+=======
+        <item itemvalue="Python.mnist_eval" />
+        <item itemvalue="Python.mnist_train" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +289,11 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15899582" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,6 +318,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/mnist_eval.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -254,10 +327,21 @@
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1537169094067" expanded="true" signature="220:225" ph="..." />
             <marker date="1537169094067" expanded="true" signature="1895:1900" ph="..." />
+=======
+    <entry file="file://$PROJECT_DIR$/mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1537153747204" expanded="true" signature="363:368" ph="..." />
+            <marker date="1537153747204" expanded="true" signature="2238:2243" ph="..." />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/mnist_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -266,6 +350,16 @@
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1537153747204" expanded="true" signature="363:368" ph="..." />
             <marker date="1537153747204" expanded="true" signature="2238:2243" ph="..." />
+=======
+    <entry file="file://$PROJECT_DIR$/mnist_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1537168170426" expanded="true" signature="220:225" ph="..." />
+            <marker date="1537168170426" expanded="true" signature="1895:1900" ph="..." />
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
           </folding>
         </state>
       </provider>

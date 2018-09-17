@@ -5,7 +5,11 @@ from tensorflow.examples.tutorials.mnist import input_data
 import mnist_inference
 import mnist_train
 
+<<<<<<< HEAD
 # 每十秒加载一次最新模型， 并在测试数据还是那个测试最新模型的正确率
+=======
+# 每十秒加载一次最先模型， 并在测试数据还是那个测试最新模型的正确率
+>>>>>>> d6d9bac858ad283d0e09c0aea569dba07f9f892b
 EVAL_INTERVAL_SECS = 10
 
 def evaluate(mnist):
